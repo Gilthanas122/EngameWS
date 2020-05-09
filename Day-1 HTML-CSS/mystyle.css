@@ -1,0 +1,56 @@
+p {
+    color: coral;
+}
+
+h1{
+    border: 1px solid red;
+    padding: 10px;
+    border-bottom: 2px dotted green;
+    margin-bottom: 0px;
+    width: 30%;
+}
+
+h2{
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 0px;
+}
+
+div p{
+    color: darkgoldenrod;
+}
+
+nav{
+    background-color: darkgrey;
+    height: 50px;
+}
+
+.navbar-div{
+    display: inline;
+}
+
+#float-div{
+    float: right;
+    margin-top: 15px;
+}
+div img{
+    background-color: grey;
+}
+
+#navbar-image{
+    margin-top: 5px;
+    width: 5%;
+    height: auto;
+}
+
+#float-div a{
+ margin-right: 20px;
+}
+
+body{
+    background-image: url(images/puppy3.jpg);
+}
+
+
+#to-the-center{
+    text-align: center;
+}
